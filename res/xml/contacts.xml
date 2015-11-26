@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContactsSource xmlns:android="http://schemas.android.com/apk/res/android">
+	<ContactsDataKind android:icon="@drawable/ic_launcher"
+		android:mimeType="vnd.android.cursor.item/vnd.xmpp.client.account.chat"
+		android:detailColumn="data2" />
+</ContactsSource>
